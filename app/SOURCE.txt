@@ -1,0 +1,5 @@
+Upstream: https://github.com/Renhuai123/ziwei-doushu
+Commit: a600484a49255039d0725f1ba9e11ca81a948f97
+License: MIT; see LICENSE.
+RepoGo changes: standalone; scoped chart-only routes; Chinese labels; remove unavailable AI interface, duplicate time navigation and analytics.
+Excluded: lib/classics; library/knowledge routes; docs; commercial UI links; release datasets.

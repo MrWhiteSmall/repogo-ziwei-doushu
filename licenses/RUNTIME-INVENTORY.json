@@ -1,0 +1,450 @@
+[
+  {
+    "path": "@img/colour/package.json",
+    "name": "@img/colour",
+    "version": "1.1.0",
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "@next/env/package.json",
+    "name": "@next/env",
+    "version": "16.4.3",
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "@swc/helpers/package.json",
+    "name": "@swc/helpers",
+    "version": "0.5.23",
+    "license": "Apache-2.0",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "client-only/package.json",
+    "name": "client-only",
+    "version": "0.0.1",
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "detect-libc/package.json",
+    "name": "detect-libc",
+    "version": "2.1.2",
+    "license": "Apache-2.0",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/@edge-runtime/cookies/package.json",
+    "name": "@edge-runtime/cookies",
+    "version": "6.0.0",
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/@edge-runtime/ponyfill/package.json",
+    "name": "@edge-runtime/ponyfill",
+    "version": "4.0.0",
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/@edge-runtime/primitives/package.json",
+    "name": "@edge-runtime/primitives",
+    "version": "6.0.0",
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/@hapi/accept/package.json",
+    "name": "@hapi/accept",
+    "version": null,
+    "license": "BSD-3-Clause",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/@mswjs/interceptors/ClientRequest/package.json",
+    "name": "@mswjs/interceptors",
+    "version": null,
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/@napi-rs/triples/package.json",
+    "name": "@napi-rs/triples",
+    "version": null,
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/@opentelemetry/api/package.json",
+    "name": "@opentelemetry/api",
+    "version": null,
+    "license": "Apache-2.0",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/@vercel/detect-agent/package.json",
+    "name": "@vercel/detect-agent",
+    "version": null,
+    "license": "Apache-2.0",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/async-retry/package.json",
+    "name": "async-retry",
+    "version": null,
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/async-sema/package.json",
+    "name": "async-sema",
+    "version": null,
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/busboy/package.json",
+    "name": "busboy",
+    "version": null,
+    "license": null,
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/bytes/package.json",
+    "name": "bytes",
+    "version": null,
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/ci-info/package.json",
+    "name": "ci-info",
+    "version": null,
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/commander/package.json",
+    "name": "commander",
+    "version": null,
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/comment-json/package.json",
+    "name": "comment-json",
+    "version": null,
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/compression/package.json",
+    "name": "compression",
+    "version": null,
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/conf/package.json",
+    "name": "conf",
+    "version": null,
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/content-disposition/package.json",
+    "name": "content-disposition",
+    "version": null,
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/cookie/package.json",
+    "name": "cookie",
+    "version": null,
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/cross-spawn/package.json",
+    "name": "cross-spawn",
+    "version": null,
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/debug/package.json",
+    "name": "debug",
+    "version": null,
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/edge-runtime/package.json",
+    "name": "edge-runtime",
+    "version": null,
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/find-up/package.json",
+    "name": "find-up",
+    "version": null,
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/fresh/package.json",
+    "name": "fresh",
+    "version": null,
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/hash.js/sha256/package.json",
+    "name": "hash.js",
+    "version": null,
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/httpxy/package.json",
+    "name": "httpxy",
+    "version": null,
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/image-size/package.json",
+    "name": "image-size",
+    "version": null,
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/ipaddr.js/package.json",
+    "name": "ipaddr.js",
+    "version": null,
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/is-animated/package.json",
+    "name": "is-animated",
+    "version": null,
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/is-docker/package.json",
+    "name": "is-docker",
+    "version": null,
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/is-wsl/package.json",
+    "name": "is-wsl",
+    "version": null,
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/jsonwebtoken/package.json",
+    "name": "jsonwebtoken",
+    "version": null,
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/nanoid/package.json",
+    "name": "nanoid",
+    "version": null,
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/p-limit/package.json",
+    "name": "p-limit",
+    "version": null,
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/p-queue/package.json",
+    "name": "p-queue",
+    "version": null,
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/path-browserify/package.json",
+    "name": "path-browserify",
+    "version": null,
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/path-to-regexp/package.json",
+    "name": "path-to-regexp",
+    "version": null,
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/picomatch/package.json",
+    "name": "picomatch",
+    "version": null,
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/react-is/package.json",
+    "name": "react-is",
+    "version": "19.3.0-canary-278794d7-20261002",
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/regenerator-runtime/package.json",
+    "name": "regenerator-runtime",
+    "version": "0.13.4",
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/semver/package.json",
+    "name": "semver",
+    "version": null,
+    "license": "ISC",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/send/package.json",
+    "name": "send",
+    "version": null,
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/source-map/package.json",
+    "name": "source-map",
+    "version": null,
+    "license": "BSD-3-Clause",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/stacktrace-parser/package.json",
+    "name": "stacktrace-parser",
+    "version": null,
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/string-hash/package.json",
+    "name": "string-hash",
+    "version": null,
+    "license": "CC0-1.0",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/strip-ansi/package.json",
+    "name": "strip-ansi",
+    "version": null,
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/superstruct/package.json",
+    "name": "superstruct",
+    "version": null,
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/tar/package.json",
+    "name": "tar",
+    "version": null,
+    "license": "BlueOak-1.0.0",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/text-table/package.json",
+    "name": "text-table",
+    "version": null,
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/watchpack/package.json",
+    "name": "watchpack",
+    "version": null,
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/write-file-atomic/package.json",
+    "name": "write-file-atomic",
+    "version": null,
+    "license": "ISC",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/ws/package.json",
+    "name": "ws",
+    "version": null,
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/zod/package.json",
+    "name": "zod",
+    "version": null,
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/dist/compiled/zod-validation-error/package.json",
+    "name": "zod-validation-error",
+    "version": null,
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "next/package.json",
+    "name": "next",
+    "version": "16.4.3",
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "react/package.json",
+    "name": "react",
+    "version": "19.3.0",
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "react-dom/package.json",
+    "name": "react-dom",
+    "version": "19.3.0",
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "semver/package.json",
+    "name": "semver",
+    "version": "7.8.5",
+    "license": "ISC",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  },
+  {
+    "path": "styled-jsx/package.json",
+    "name": "styled-jsx",
+    "version": "5.1.6",
+    "license": "MIT",
+    "source": "fixed installed package; Next bundled packages retain vendored LICENSE from same installed Next16.4.3"
+  }
+]
